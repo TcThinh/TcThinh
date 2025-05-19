@@ -11,8 +11,8 @@ I'm Timmy a Software Engineer with more than 3 years of experience. Experienced 
 ### My stats ⭐
 
 <div align="center">
-<img alt="Timmy's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TcThinh&show_icons=true&theme=transparent"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TcThinh&layout=compact&&langs_count=8"/>
+<img alt="Timmy's GitHub stats" src="https://stats-readme.tcthinh.vn/api?username=TcThinh&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://stats-readme.tcthinh.vn/api/top-langs/?username=TcThinh&layout=compact&&langs_count=8"/>
 </div>
 
 
